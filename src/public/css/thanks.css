@@ -1,0 +1,37 @@
+.thanks-form__content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.thanks-form__background-text{
+    position: relative;
+}
+h1{
+    font-size: 300px;
+    font-family: 'Merriweather', serif;
+    color: #f9f8f8;
+}
+.thanks-form__message{
+    position: absolute;
+    top: 30%;
+    left: 35%;
+}
+h3{
+    color: #8d7b6c;
+    font-weight: bold;
+    font-size: 30px;
+}
+.thanks-form__button{
+    position: absolute;
+    top: 45%;
+    left: 43%;
+}
+.form__button-submit{
+    width: 150px;
+    height: 50px;
+    border: none;
+    color: #fff;
+    background-color: #82756a;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}

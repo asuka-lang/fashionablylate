@@ -1,0 +1,23 @@
+* {
+    color: #8d7b6c;
+    background-color: #fff;
+}
+
+.header {
+    max-height: 150px;
+    border-bottom: solid 2px #dfdfde;
+    display: flex;
+    align-items: center;
+}
+
+.header__inner {
+    margin: 0 auto;
+}
+
+.header__logo {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    font-size: 40px;
+}

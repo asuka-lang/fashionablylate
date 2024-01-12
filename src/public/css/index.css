@@ -1,0 +1,85 @@
+.contact-form__heading-logo{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+}
+.contact-form__heading{
+    padding: 10px 0;
+}
+.form{
+    text-align: center;
+    margin: 0 auto;
+    width: 70%;
+}
+.form__group{
+    display: flex;
+    margin: 30px 0;
+}
+.form__group-title{
+    width: 35%;
+    text-align: left;
+}
+.form__label--item{
+    font-size: 20px;
+    line-height: 40px;
+}
+.form__label--required{
+    color: red;
+}
+.form__error{
+    height: 20px;
+    color: #ff0000;
+}
+.form__group-content{
+    text-align: left;
+}
+.form__input--text input,
+.form__input--text select,
+.form__input--textarea textarea{
+    border: 1px solid #f5f5f5;
+    background-color: #f4f4f4;
+    color: #beb1a7;
+    margin: 0  10px;
+    border-radius: 3px;
+    font-size: 15px;
+    font-family: 'Merriweather', "遊ゴシック", sans-serif;
+}
+.input-name{
+    width: 320px;
+    height: 40px;
+}
+.input-gender{
+    margin: 0;
+    display: inline-block;
+}
+.radio-label{
+    margin-right: 40px;
+    font-size: 20px;
+}
+.input-email,
+.input-address,
+.input-building{
+    width: 660px;
+    height: 40px;
+}
+.input-tell{
+    width: 200px;
+    height: 40px;
+}
+.form__select--item{
+    width: 400px;
+    height: 40px;
+}
+.textarea{
+    width: 660px;
+    height: 150px;
+    resize: none;
+}
+.form__button-submit{
+    width: 170px;
+    height: 50px;
+    background-color: #82756a;
+    color: #fff;
+    margin: 10px 0 30px;
+    font-size: 20px;
+}
