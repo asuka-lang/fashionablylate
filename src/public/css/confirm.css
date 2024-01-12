@@ -1,0 +1,82 @@
+.confirm-form__heading-logo{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+.confirm-form__heading{
+    padding: 10px 0;
+}
+.form{
+    margin: 0 auto;
+    width: 60%;
+}
+.confirm-table{
+    border: solid 2px #dfdfde;
+    margin-bottom: 30px;
+}
+.confirm-table__inner{
+    width:100%
+}
+.confirm-table__row{
+    border-bottom: solid 2px #dfdfde;
+}
+.confirm-table__header{
+    width: 30%;
+    text-align: left;
+    color: #fff;
+    font-size: 20px;
+    padding: 20px 40px;
+    background-color: #baa899;
+    height: 50px;
+    font-weight: lighter;
+}
+.confirm-table__text{
+    padding: 20px 30px;
+    width: 70%;
+}
+.confirm-table__text input{
+    outline: none;
+    border: none;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: 'Merriweather', "遊ゴシック", sans-serif;
+}
+.input-name{
+    width: 80px;
+}
+.input-tell{
+    width: 200px;
+}
+.textarea{
+    width: 100%;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    font-weight: none;
+    resize: none;
+    font-family: 'Merriweather', "遊ゴシック", sans-serif;
+}
+.form__button{
+    text-align: center;
+}
+.submit{
+    width: 130px;
+    height: 50px;
+    background-color: #82756a;
+    color: #fff;
+    margin: 10px 0 30px;
+    font-size: 20px;
+}
+.back{
+    width: 130px;
+    height: 50px;
+    border: none;
+    font-size: 20px;
+    text-decoration: underline;
+    margin: 10px 40px 0 30px;
+    background-color: #fff;
+    font-size: 20px;
+}

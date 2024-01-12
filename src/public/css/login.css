@@ -1,0 +1,86 @@
+a {
+    display: block;
+    color: #e8ded5;
+    background-color: #f6f6f6;
+    text-decoration: none;
+    border: solid 2px #e8ded5;
+    padding: 5px 40px;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+}
+
+.header-nav__item {
+    margin: 10px 100px 10px 0;
+}
+
+.login-form__heading-logo {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    padding: 50px 250px 0 0;
+    background-color: #f1ece6;
+}
+
+.login-form__heading {
+    padding: 10px 0;
+    background-color: #f1ece6;
+}
+
+.login-form__content {
+    background-color: #f1ece6;
+    height: 1200px;
+}
+
+.form {
+    text-align: center;
+    margin: 0 550px;
+    width: 40%;
+    border: 2px solid #e8ded5;
+    border-radius: 3px;
+    background-color: #fff;
+}
+
+.form__group {
+    margin: 50px 200px 0;
+}
+
+.form__group:first-of-type {
+    margin: 100px 200px 0;
+}
+
+.form__group-title {
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.form__error {
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}
+
+.form__input--text input {
+    padding: 10px;
+    width: 100%;
+    height: 50px;
+    background-color: #f4f4f4;
+    color: #beb1a7;
+    border-radius: 3px;
+    font-size: 15px;
+    font-family: 'Merriweather', "遊ゴシック", sans-serif;
+    border: none;
+}
+
+.form__button {
+    margin: 50px auto;
+}
+
+.form__button-submit {
+    width: 150px;
+    height: 50px;
+    background-color: #82756a;
+    color: #fff;
+    margin: 10px 0 30px;
+    font-size: 20px;
+}
